@@ -131,7 +131,7 @@ python Backpropagation_200_Loop_v2.py
 
 The script shuffles the training examples, trains for five epochs, plots the recorded MSE values, and calls `Test_Model.test_model(...)` with the learned weight matrices. Execution will require a compatible `ANN_Project_Assets` module and dataset; those inputs are intentionally called out rather than implied to be included.
 
-## Engineering and ML limitations
+## Limitations and next steps
 
 This is a valuable learning implementation, but it should not yet be treated as a verified benchmark:
 
